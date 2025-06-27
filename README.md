@@ -28,14 +28,22 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;">
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7)
 
 ## 🌱 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact)
-
 
 ## 🔥 Featured Projects
 
@@ -44,6 +52,10 @@
 
 [![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
 🚀 PyTorch distributed training tutorials | Practical examples of DP/DDP/FSDP paradigms
+
+## 🎲 Random Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ## 👀 Visitors Count
 
