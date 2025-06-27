@@ -30,10 +30,10 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 50%;">
   </div>
 </div>
 
