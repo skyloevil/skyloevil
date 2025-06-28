@@ -41,7 +41,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7)
 
-## 🏆 Professional Achievements
+## 🏅  Professional Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=nord&column=7&rank=SSS,SS,S,A&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
