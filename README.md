@@ -49,22 +49,17 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    ## 🔥 Featured Projects
+## 🔥 Featured Projects
 
-    [![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical)](https://github.com/skyloevil/llm-scratch-pytorch)  
-    🔍 Implementing LLM core components from scratch | Includes PyTorch implementations of Attention, Transformer, etc.
+[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical)](https://github.com/skyloevil/llm-scratch-pytorch)  
+🔍 Implementing LLM core components from scratch | Includes PyTorch implementations of Attention, Transformer, etc.
 
-    [![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
-    🚀 PyTorch distributed training tutorials | Practical examples of DP/DDP/FSDP paradigms
-  </div>
+[![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
+🚀 PyTorch distributed training tutorials | Practical examples of DP/DDP/FSDP paradigms
 
-  <div style="flex: 1; min-width: 300px;">
-    ## 🎲 Random Dev Joke
-
-    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-  </div>
+<div style="display: flex; gap: 20px; margin: 10px 0;">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke 1" style="width: 48%;"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke 2" style="width: 48%;"/>
 </div>
 
 ## 👀 Visitors Count
