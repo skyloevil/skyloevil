@@ -28,10 +28,14 @@
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/skyloevil/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/skyloevil/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/skyloevil/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/skyloevil/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;">
+  </div>
+</div>
 
 ## 🏆 GitHub Trophies
 
