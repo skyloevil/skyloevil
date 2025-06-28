@@ -29,11 +29,11 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
-  <div style="flex: 1; min-width: 150px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 60%; height: 100%; object-fit: contain;">
   </div>
-  <div style="flex: 1; min-width: 150;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 60%; height: 100%; object-fit: contain;">
   </div>
 </div>
 
@@ -57,9 +57,10 @@
 [![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
 🚀 PyTorch distributed training tutorials | Practical examples of DP/DDP/FSDP paradigms
 
+## 🎲 Random Dev Joke
+
 <div style="display: flex; gap: 20px; margin: 10px 0;">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke 1" style="width: 48%;"/>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke 2" style="width: 48%;"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke 1" style="width: 40%;"/>
 </div>
 
 ## 👀 Visitors Count
