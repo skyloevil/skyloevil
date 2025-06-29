@@ -3,7 +3,6 @@
 ## 🌍 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/skyloevil)
-[![Maimai](https://img.shields.io/badge/脉脉-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBDNS40IDAgMCA1LjQgMCAxMnM1LjQgMTIgMTIgMTIgMTItNS40IDEyLTEyUzE4LjYgMCAxMiAwem0wIDIyYy01LjUgMC0xMC00LjUtMTAtMTBTNi41IDIgMTIgMnMxMCA0LjUgMTAgMTAtNC41IDEwLTEwIDEwem0tMy0xNWgtMnYxNmgydi02aDJ2Nmgydi0xNmgtMnY2aC0yeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://maimai.cn/contact/share/card?u=ldk1wcrvqza)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skyloevil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:zhao.zitian@outlook.com)
 
