@@ -51,7 +51,7 @@
 
 ## 🔥 Featured Projects
 
-[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical)](https://github.com/skyloevil/llm-scratch-pytorch)  
+[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical&fresh=1)](https://github.com/skyloevil/llm-scratch-pytorch)  
 🔍 Implementing LLM core components from scratch | Includes PyTorch implementations of Attention, Transformer, etc.
 
 [![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
