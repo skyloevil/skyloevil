@@ -29,31 +29,31 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 75%; height: 100%; object-fit: contain;">
+    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical&refresh=1" alt="GitHub Stats" style="width: 75%; height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical" alt="Top Languages" style="width: 75%; height: 100%; object-fit: contain;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical&refresh=1" alt="Top Languages" style="width: 75%; height: 100%; object-fit: contain;">
   </div>
 </div>
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=2)
 
 ## 🏅  Professional Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=nord&column=7&rank=SSS,SS,S,A&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=nord&column=7&rank=SSS,SS,S,A&no-bg=true&margin-w=10&refresh=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=1)
 
 ## 🔥 Featured Projects
 
-[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical&fresh=1)](https://github.com/skyloevil/llm-scratch-pytorch)  
+[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical&fresh=2)](https://github.com/skyloevil/llm-scratch-pytorch)  
 🔍 Implementing LLM core components from scratch | Includes PyTorch implementations of Attention, Transformer, etc.
 
-[![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
+[![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical&refresh=1)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
 🚀 PyTorch distributed training tutorials | Practical examples of DP/DDP/FSDP paradigms
 
 ## 🎲 Random Dev Joke
