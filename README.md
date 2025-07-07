@@ -40,10 +40,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=3)
 
-## 🏅  Professional Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=nord&column=7&rank=SSS,SS,S,A&no-bg=true&margin-w=10&refresh=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🌱 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=2)
