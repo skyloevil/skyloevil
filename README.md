@@ -1,4 +1,4 @@
-# Hi there 👋 I'm ZiTian.Zhao
+# Hi there 👋 I'm ZiTian Zhao
 
 ## 🌍 Connect With Me
 
