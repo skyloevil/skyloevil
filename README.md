@@ -38,18 +38,18 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=3)
+![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=4)
 
 ## 🌱 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=2)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=3)
 
 ## 🔥 Featured Projects
 
-[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical&refresh=3)](https://github.com/skyloevil/llm-scratch-pytorch)  
+[![LLM Scratch PyTorch](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=llm-scratch-pytorch&theme=radical&refresh=4)](https://github.com/skyloevil/llm-scratch-pytorch)  
 🔍 Implementing LLM core components from scratch | Includes PyTorch implementations of Attention, Transformer, etc.
 
-[![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical&refresh=2)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
+[![PyTorch Distribute Tutorials](https://github-readme-stats.vercel.app/api/pin/?username=skyloevil&repo=pytorch_distribute_tutorials&theme=radical&refresh=3)](https://github.com/skyloevil/pytorch_distribute_tutorials)  
 🚀 PyTorch distributed training tutorials | Practical examples of DP/DDP/FSDP paradigms
 
 ## 🎲 Random Dev Joke
