@@ -12,7 +12,6 @@
 - 🌱 I'm currently learning **LLMs and PyTorch**
 - 👯 I'm looking to collaborate on **vllm and sglang**
 - 💬 Ask me about **PyTorch,Golang,Python or anything ai & backend related**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 6 minutes**
 
 ## 🛠 Tech Stack
 
