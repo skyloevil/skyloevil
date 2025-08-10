@@ -29,17 +29,17 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: stretch;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical&refresh=2" alt="GitHub Stats" style="width: 75%; height: 100%; object-fit: contain;">
+    <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical&refresh=3" alt="GitHub Stats" style="width: 75%; height: 100%; object-fit: contain;">
   </div>
 </div>
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=5)
 
 ## 🌱 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=3)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=4)
 
 
 ## 👀 Visitors Count
