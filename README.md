@@ -44,11 +44,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=3)
 
-## 🎲 Random Dev Joke
-
-<div style="display: flex; gap: 20px; margin: 10px 0;">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke 1" style="width: 75%;"/>
-</div>
 
 ## 👀 Visitors Count
 
