@@ -31,9 +31,6 @@
   <div style="flex: 1; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=skyloevil&show_icons=true&theme=radical&refresh=2" alt="GitHub Stats" style="width: 75%; height: 100%; object-fit: contain;">
   </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyloevil&layout=compact&theme=radical&refresh=2" alt="Top Languages" style="width: 75%; height: 100%; object-fit: contain;">
-  </div>
 </div>
 
 ## 🏆 GitHub Trophies
