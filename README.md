@@ -32,10 +32,6 @@
   </div>
 </div>
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=skyloevil&theme=onedark&no-frame=true&row=1&column=7&refresh=5)
-
 ## 🌱 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyloevil&theme=github-compact&refresh=4)
